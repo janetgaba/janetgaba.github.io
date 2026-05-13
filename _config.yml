@@ -24,11 +24,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Janet Gaba"
+  pronouns         : "She/her"  
+  bio              : "PhD, Concordia University. Physical chemistry: molecular modelling, noncovalent interactions, surfaces/interfaces."
+  location         : "Montreal, QC, Canada"
+  employer         : "Concordia University"
   uri              : # URL
   email            : "none@example.org" 
 
@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : "jgaba" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
