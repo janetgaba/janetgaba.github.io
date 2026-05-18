@@ -9,4 +9,3 @@ paperurl: 'https://doi.org/10.1016/j.ssnmr.2005.09.009'
 bibtexurl: 'https://janetgaba.github.io/files/ssnmr_2006_29_30.bib'
 citation: 'Sachleben, J. R.; Gaba, J. H.; Emsley, L. Floquet-van Vleck Analysis of Heteronuclear Spin Decoupling in Solids: The Effect of Spinning and Decoupling Sidebands on the Spectrum. <i>Solid State Nucl. Mag.</i> <b>2006</b>, <i>29</i>, 30-51. https://doi.org/10.1016/j.ssnmr.2005.09.009'
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
