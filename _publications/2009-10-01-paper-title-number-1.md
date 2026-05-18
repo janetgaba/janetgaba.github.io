@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 1"
+title: "Floquet–van Vleck analysis of heteronuclear spin decoupling in solids: The effect of spinning and decoupling sidebands on the spectrum"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
