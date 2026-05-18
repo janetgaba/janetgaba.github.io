@@ -1,0 +1,9 @@
+---
+title: "Effects of π-π Stacking on Film Formation of Phenolic Surfactant Monolayers"
+collection: talks
+type: "Talk"
+permalink: /talks/2020-cermm
+venue: "1st Centre for Research in Molecular Modeling Symposium"
+date: 2020-02-07
+location: "Montreal, QC, Canada"
+---
