@@ -7,6 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+I'm a physical chemist, and I've recently finished my PhD at Concordia University. In my graduate work, I used electronic structure methods to understand how phenolic surfactant monolayers self-assemble, organize, and interact with peptides; these surfactants are being developed for surface-based biosensing applications. My teaching assistant experience spans a variety of courses and includes curriculum development, and I've gotten to supervise several undergraduate research projects.
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I enjoy using computational tools to help solve chemical puzzles that are difficult to work out by experiment alone, and I'm currently looking for a postdoc where I can bring these skills to new problems!
