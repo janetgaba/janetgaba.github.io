@@ -23,7 +23,7 @@ repository               : "janetgaba/janetgaba.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "website_image.png"
   name             : "Janet Gaba"
   pronouns         : "She/her"  
   bio              : "PhD, Concordia University. Physical chemistry: molecular modelling, noncovalent interactions, surfaces/interfaces."
