@@ -28,7 +28,7 @@ author:
   pronouns         : "She/her"  
   bio              : "PhD, Concordia University. Physical chemistry: molecular modelling, noncovalent interactions, surfaces/interfaces."
   location         : "Montreal, QC, Canada"
-  employer         : "Concordia University"
+  employer         : # "Concordia University"
   uri              : # URL
   email            : # "none@example.org" 
 
