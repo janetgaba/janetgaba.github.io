@@ -7,9 +7,24 @@ redirect_from:
   - /about.html
 ---
 
-<div style="display: flex; align-items: flex-start; gap: 2em;">
-  <img src="/images/website_image.png" style="width: 200px; border-radius: 50%;" />
-  <div>
+<style>
+.about-image {
+  float: left;
+  width: 200px;
+  border-radius: 50%;
+  margin: 0 2em 1em 0;
+}
+@media (max-width: 480px) {
+  .about-image {
+    float: none;
+    display: block;
+    margin: 0 auto 1em auto;
+  }
+}
+</style>
+
+<img src="/images/website_image.png" class="about-image" />
+
 I'm a physical chemist, and I've recently finished my PhD at Concordia University under the supervision of <a href="https://www.concordia.ca/faculty/heidi-muchall.html">Heidi Muchall</a> and <a href="https://www.concordia.ca/artsci/chemistry/research/dewolf.html">Christine DeWolf</a>. In my graduate work, I used electronic structure (DFT & semiempirical) methods to understand how phenolic surfactant monolayers self-assemble, organize, and interact with peptides; these surfactants are being developed for surface-based biosensing applications. My teaching assistant experience spans a variety of courses and includes curriculum development, and I've gotten to supervise several undergraduate research projects.
 <br /><br />
 I enjoy using computational tools to help solve chemical puzzles that are difficult to work out by experiment alone, and I'm currently looking for a position where I can bring these skills to new projects!
@@ -21,5 +36,3 @@ Find me online:<br />
 <br /><br />
 Or send me an e-mail:<br />
 janet (dot) gaba (at) mail (dot) concordia (dot) ca
-  </div>
-</div>
