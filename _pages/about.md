@@ -35,4 +35,4 @@ Find me online:<br />
 <a href="https://scholar.google.com/citations?user=EuwGX8cAAAAJ">Google Scholar</a> | <a href="https://orcid.org/0000-0002-2217-7283">ORCID</a> | <a href="https://bsky.app/profile/jgaba">Bluesky</a>
 <br /><br />
 Or send me an e-mail:<br />
-janet (dot) gaba (at) mail (dot) concordia (dot) ca
+janet.gaba (at) mail.concordia.ca
