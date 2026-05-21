@@ -10,9 +10,9 @@ location: "Montreal, QC, Canada"
 
 - Roles: Tutorial leader, laboratory TA (in-person)
 - Debuted organic spectroscopy tutorial series at Concordia University. Wrote and presented a course prerequisite diagnostic quiz, and five three-hour lessons on:
--- determination of molecular formulas
--- infrared (IR) and ultraviolet-visible (UV-Vis) spectroscopies
--- simple proton nuclear magnetic resonance (NMR) spectra
--- complex multiplets, 13C NMR spectra, and two-dimensional NMR techniques
--- mass spectrometry, including fragmentation
-Lessons included experimental techniques, theory, prediction, and interpretation; a pre- tutorial reading assignment; a group problem-solving exercise on a real-world topic; and an individual quiz. Recorded videos to show later TAs how to present these topics.
+    - determination of molecular formulas
+    - infrared (IR) and ultraviolet-visible (UV-Vis) spectroscopies
+    - simple <sup>1</sup>H nuclear magnetic resonance (NMR) spectra
+    - complex multiplets, <sup>13</sup>C NMR spectra, and two-dimensional NMR techniques
+    - mass spectrometry, including fragmentation
+Lessons included experimental techniques, theory, prediction, and interpretation; a pre-tutorial reading assignment; a group problem-solving exercise on a real-world topic; and an individual quiz. Recorded videos to show later TAs how to present these topics.
