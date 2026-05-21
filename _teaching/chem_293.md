@@ -9,7 +9,7 @@ location: "Montreal, QC, Canada"
 ---
 
 - Roles: Tutorial leader, laboratory TA (in-person)
-- Debuted organic spectroscopy tutorial series at Concordia University. Wrote and presented a course prerequisite diagnostic quiz, and five three-hour lessons on:
+- Debuted the organic spectroscopy tutorial series at Concordia University. Wrote and presented a course prerequisite diagnostic quiz, and five three-hour lessons on:
     - determination of molecular formulas
     - infrared (IR) and ultraviolet-visible (UV-Vis) spectroscopies
     - simple <sup>1</sup>H nuclear magnetic resonance (NMR) spectra
