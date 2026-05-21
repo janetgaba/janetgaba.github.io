@@ -5,14 +5,14 @@ permalink: /talks/
 author_profile: false
 ---
 
-<h2>Talks</h2>
+<h3>Talks</h3>
 {% for post in site.talks reversed %}
   {% if post.type == "Talk" %}
     {% include archive-single-talk.html %}
   {% endif %}
 {% endfor %}
 
-<h2>Poster Presentations</h2>
+<h3>Poster Presentations</h3>
 {% for post in site.talks reversed %}
   {% if post.type == "Poster" %}
     {% include archive-single-talk.html %}
