@@ -8,4 +8,4 @@ date: 2018-01-04
 location: "Montreal, QC, Canada"
 ---
 
-- Tutorials
+- Role: tutorial leader
