@@ -8,5 +8,4 @@ date: 2018-01-05
 location: "Montreal, QC, Canada"
 ---
 
-- Tutorials
-- Remote labs
+- Roles: Tutorial leader, laboratory TA (remote)
