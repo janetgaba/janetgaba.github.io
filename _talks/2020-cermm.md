@@ -6,4 +6,5 @@ permalink: /talks/2020-cermm
 venue: "1st Centre for Research in Molecular Modeling Symposium"
 date: 2020-02-07
 location: "Montreal, QC, Canada"
+authors: "<b><u>Gaba, J. H.</u></b>; DeWolf, C. E.; Muchall, H. M."
 ---
