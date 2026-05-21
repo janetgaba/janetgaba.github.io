@@ -8,4 +8,4 @@ date: 2018-01-01
 location: "Montreal, QC, Canada"
 ---
 
-- Laboratory marker
+- Role: Laboratory marker
