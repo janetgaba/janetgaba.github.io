@@ -8,4 +8,4 @@ date: 2018-01-03
 location: "Montreal, QC, Canada"
 ---
 
-- Computational laboratory marker
+- Role: Computational laboratory marker
