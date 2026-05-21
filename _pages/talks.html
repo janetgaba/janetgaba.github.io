@@ -4,15 +4,17 @@ title: "Conference Presentations"
 permalink: /talks/
 author_profile: false
 ---
-<hr>
+
 <h2>Talks</h2>
+<hr>
 {% for post in site.talks reversed %}
   {% if post.type == "Talk" %}
     {% include archive-single-talk.html %}
   {% endif %}
 {% endfor %}
-<hr>
+
 <h2>Poster Presentations</h2>
+<hr>
 {% for post in site.talks reversed %}
   {% if post.type == "Poster" %}
     {% include archive-single-talk.html %}
